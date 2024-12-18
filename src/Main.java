@@ -48,9 +48,11 @@ public class Main {
                 }
 
                 System.out.println();
+
                 for (String city : cities) {
                     System.out.println(city);
                 }
+
                 System.out.println();
 
             } catch (Exception e) {
